@@ -1,6 +1,18 @@
 # Changelog
 
 
+## [5.0.6](https://github.com/muhlba91/node-red-container/compare/v5.0.5...v5.0.6) (2024-12-30)
+
+
+### Miscellaneous Chores
+
+* **deps:** update github/codeql-action action to v3.28.0 ([0d3bfac](https://github.com/muhlba91/node-red-container/commit/0d3bfac709fd3bc4d68f1df9a18ca7d810e71ae9))
+* **deps:** update nodered/node-red docker tag to v4.0.8 ([92857cf](https://github.com/muhlba91/node-red-container/commit/92857cfce7971f5a6b057bdde003abaa38c7e549))
+* **deps:** update pre-commit hook gitleaks/gitleaks to v8.21.3 ([fd90676](https://github.com/muhlba91/node-red-container/commit/fd906767141bbfd103498d872239f20879edbcda))
+* **deps:** update pre-commit hook gitleaks/gitleaks to v8.21.4 ([2fc54d0](https://github.com/muhlba91/node-red-container/commit/2fc54d053ed3db95f028f932b740bf2ba15c1609))
+* **deps:** update pre-commit hook gitleaks/gitleaks to v8.22.0 ([46ed032](https://github.com/muhlba91/node-red-container/commit/46ed032968bb6e91f0f73eccbeb4600c02f5c4ff))
+* **deps:** update pre-commit hook gitleaks/gitleaks to v8.22.1 ([cbc0e38](https://github.com/muhlba91/node-red-container/commit/cbc0e387d6c4d5d1aee0f186b7f507c0dc9f3002))
+
 ## [5.0.5](https://github.com/muhlba91/node-red-container/compare/v5.0.4...v5.0.5) (2024-12-18)
 
 
