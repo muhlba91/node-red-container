@@ -1,6 +1,27 @@
 # Changelog
 
 
+## [5.0.6](https://github.com/muhlba91/node-red-container/compare/v5.0.5...v5.0.6) (2025-01-20)
+
+
+### Miscellaneous Chores
+
+* **deps:** update actions/upload-artifact action to v4.6.0 ([e5995d0](https://github.com/muhlba91/node-red-container/commit/e5995d0cc3df109fdedb1158ad8c83e197d33c59))
+* **deps:** update docker/build-push-action action to v6.11.0 ([ffb65ea](https://github.com/muhlba91/node-red-container/commit/ffb65ea5e3dafd930e598c8d4b7ef67d3e0d4756))
+* **deps:** update docker/build-push-action action to v6.12.0 ([83b9220](https://github.com/muhlba91/node-red-container/commit/83b922027e9433b5b8ffa29c134faf15d62336ad))
+* **deps:** update docker/setup-qemu-action action to v3.3.0 ([cb6f2cc](https://github.com/muhlba91/node-red-container/commit/cb6f2cc09661269937f373ed68766184d7388005))
+* **deps:** update github/codeql-action action to v3.28.0 ([0d3bfac](https://github.com/muhlba91/node-red-container/commit/0d3bfac709fd3bc4d68f1df9a18ca7d810e71ae9))
+* **deps:** update github/codeql-action action to v3.28.1 ([945a50b](https://github.com/muhlba91/node-red-container/commit/945a50b118cc6814d0ae139a7b50803370a41908))
+* **deps:** update nodered/node-red docker tag to v4.0.8 ([92857cf](https://github.com/muhlba91/node-red-container/commit/92857cfce7971f5a6b057bdde003abaa38c7e549))
+* **deps:** update pre-commit hook gitleaks/gitleaks to v8.21.3 ([fd90676](https://github.com/muhlba91/node-red-container/commit/fd906767141bbfd103498d872239f20879edbcda))
+* **deps:** update pre-commit hook gitleaks/gitleaks to v8.21.4 ([2fc54d0](https://github.com/muhlba91/node-red-container/commit/2fc54d053ed3db95f028f932b740bf2ba15c1609))
+* **deps:** update pre-commit hook gitleaks/gitleaks to v8.22.0 ([46ed032](https://github.com/muhlba91/node-red-container/commit/46ed032968bb6e91f0f73eccbeb4600c02f5c4ff))
+* **deps:** update pre-commit hook gitleaks/gitleaks to v8.22.1 ([cbc0e38](https://github.com/muhlba91/node-red-container/commit/cbc0e387d6c4d5d1aee0f186b7f507c0dc9f3002))
+* **deps:** update pre-commit hook gitleaks/gitleaks to v8.23.0 ([c95be20](https://github.com/muhlba91/node-red-container/commit/c95be207951c50668389e9de4d5746ac44e3e91e))
+* **deps:** update pre-commit hook gitleaks/gitleaks to v8.23.1 ([084f048](https://github.com/muhlba91/node-red-container/commit/084f048defa5961a9bddb6744625d80ffdba7dca))
+* **deps:** update step-security/harden-runner action to v2.10.3 ([1748fc3](https://github.com/muhlba91/node-red-container/commit/1748fc33fca1b6c7777ebf84930737dafb5a1f77))
+* **deps:** update step-security/harden-runner action to v2.10.4 ([25497cd](https://github.com/muhlba91/node-red-container/commit/25497cdae36de38ea5a94dc82ac04ebd6952fb1a))
+
 ## [5.0.5](https://github.com/muhlba91/node-red-container/compare/v5.0.4...v5.0.5) (2024-12-18)
 
 
