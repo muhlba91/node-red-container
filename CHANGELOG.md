@@ -1,6 +1,21 @@
 # Changelog
 
 
+## [5.0.7](https://github.com/muhlba91/node-red-container/compare/v5.0.6...v5.0.7) (2025-04-11)
+
+
+### Miscellaneous Chores
+
+* **deps:** update actions/dependency-review-action action to v4.6.0 ([495bfad](https://github.com/muhlba91/node-red-container/commit/495bfadc9d1c54437f8dc5d63d164051c00b06c1))
+* **deps:** update actions/upload-artifact action to v4.6.2 ([c23bb2b](https://github.com/muhlba91/node-red-container/commit/c23bb2b4b940c932021554ac92f203d4c37021a5))
+* **deps:** update github/codeql-action action to v3.28.12 ([f120533](https://github.com/muhlba91/node-red-container/commit/f1205330286c1600960eb9b9503f39c6b190ef4b))
+* **deps:** update github/codeql-action action to v3.28.13 ([7557820](https://github.com/muhlba91/node-red-container/commit/75578206957a8ccfdf71c825c03983f69eeee4c2))
+* **deps:** update github/codeql-action action to v3.28.14 ([7256d50](https://github.com/muhlba91/node-red-container/commit/7256d50f4b79221889a5ea98a8a241b88124f730))
+* **deps:** update github/codeql-action action to v3.28.15 ([c3503f4](https://github.com/muhlba91/node-red-container/commit/c3503f476456aa14e0528b904bdf6b3d1e72f14b))
+* **deps:** update pre-commit hook gitleaks/gitleaks to v8.24.2 ([4fb7a5b](https://github.com/muhlba91/node-red-container/commit/4fb7a5bc1d317d24b7cb77948e467229215f3990))
+* **deps:** update pre-commit hook gitleaks/gitleaks to v8.24.3 ([821d967](https://github.com/muhlba91/node-red-container/commit/821d967659a0175878b2d2013cd8ea0121ea369e))
+* **deps:** update step-security/harden-runner action to v2.11.1 ([4342d2c](https://github.com/muhlba91/node-red-container/commit/4342d2cdc475e6be23b04f4970bc8c2c84fc8b08))
+
 ## [5.0.6](https://github.com/muhlba91/node-red-container/compare/v5.0.5...v5.0.6) (2025-03-18)
 
 
