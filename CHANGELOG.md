@@ -1,6 +1,15 @@
 # Changelog
 
 
+## [5.1.1](https://github.com/muhlba91/node-red-container/compare/v5.1.0...v5.1.1) (2025-08-21)
+
+
+### Miscellaneous Chores
+
+* **deps:** update actions/dependency-review-action action to v4.7.2 ([bf0ba7c](https://github.com/muhlba91/node-red-container/commit/bf0ba7c9d7513925cb7b2ebc1beb57cb66685d56))
+* **deps:** update github/codeql-action action to v3.29.10 ([077a62f](https://github.com/muhlba91/node-red-container/commit/077a62f73b5ca618041d165ec617e1281b1aab4c))
+* **deps:** update github/codeql-action action to v3.29.11 ([16a826f](https://github.com/muhlba91/node-red-container/commit/16a826f702444304d9b24fed06a8e75ab25ec4d5))
+
 ## [5.1.0](https://github.com/muhlba91/node-red-container/compare/v5.0.6...v5.1.0) (2025-08-12)
 
 
