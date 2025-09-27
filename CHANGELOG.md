@@ -1,6 +1,26 @@
 # Changelog
 
 
+## [5.1.1](https://github.com/muhlba91/node-red-container/compare/v5.1.0...v5.1.1) (2025-09-27)
+
+
+### Miscellaneous Chores
+
+* **deps:** update actions/dependency-review-action action to v4.7.2 ([bf0ba7c](https://github.com/muhlba91/node-red-container/commit/bf0ba7c9d7513925cb7b2ebc1beb57cb66685d56))
+* **deps:** update actions/dependency-review-action action to v4.7.3 ([639ba09](https://github.com/muhlba91/node-red-container/commit/639ba097cf920156fe8c4ef76bc796d12f341051))
+* **deps:** update actions/dependency-review-action action to v4.8.0 ([2c6bc98](https://github.com/muhlba91/node-red-container/commit/2c6bc9826fecc342587aac2338abe40b22a404d3))
+* **deps:** update github/codeql-action action to v3.29.10 ([077a62f](https://github.com/muhlba91/node-red-container/commit/077a62f73b5ca618041d165ec617e1281b1aab4c))
+* **deps:** update github/codeql-action action to v3.29.11 ([16a826f](https://github.com/muhlba91/node-red-container/commit/16a826f702444304d9b24fed06a8e75ab25ec4d5))
+* **deps:** update github/codeql-action action to v3.30.0 ([b1cbfe1](https://github.com/muhlba91/node-red-container/commit/b1cbfe150afa0d5bfd1be48f754e7b37acae157e))
+* **deps:** update github/codeql-action action to v3.30.1 ([5d2c479](https://github.com/muhlba91/node-red-container/commit/5d2c4795459f9af968fb8b72fb5e2e69bb200e90))
+* **deps:** update github/codeql-action action to v3.30.2 ([defb9e9](https://github.com/muhlba91/node-red-container/commit/defb9e9764d543a5418be672e46004eae80532e3))
+* **deps:** update github/codeql-action action to v3.30.3 ([86f15fe](https://github.com/muhlba91/node-red-container/commit/86f15febd84e8dd496f45cab3c432b17436ebbdc))
+* **deps:** update github/codeql-action action to v3.30.4 ([a83c01e](https://github.com/muhlba91/node-red-container/commit/a83c01e2d4a6a92276d9f70da80e17600a2b5983))
+* **deps:** update github/codeql-action action to v3.30.5 ([d5eb8f6](https://github.com/muhlba91/node-red-container/commit/d5eb8f68fa9cdf717b9f63175a838d89d46b0a0f))
+* **deps:** update hadolint/hadolint-action action to v3.2.0 ([99f43b3](https://github.com/muhlba91/node-red-container/commit/99f43b35318b92a1e2d2913d716bb3554508daf0))
+* **deps:** update hadolint/hadolint-action action to v3.3.0 ([f30b2f7](https://github.com/muhlba91/node-red-container/commit/f30b2f7e515367aea911da549b9bf045796b7dbd))
+* **deps:** update step-security/harden-runner action to v2.13.1 ([465e93b](https://github.com/muhlba91/node-red-container/commit/465e93b586802c5560d14ab7cf3b7deba7090332))
+
 ## [5.1.0](https://github.com/muhlba91/node-red-container/compare/v5.0.6...v5.1.0) (2025-08-12)
 
 
