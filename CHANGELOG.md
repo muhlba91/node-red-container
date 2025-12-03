@@ -1,6 +1,52 @@
 # Changelog
 
 
+## [5.1.1](https://github.com/muhlba91/node-red-container/compare/v5.1.0...v5.1.1) (2025-12-03)
+
+
+### Miscellaneous Chores
+
+* **deps:** update actions/checkout action to v5.0.1 ([54cb4d4](https://github.com/muhlba91/node-red-container/commit/54cb4d45116fbd800136005501dccd75d6405f51))
+* **deps:** update actions/checkout action to v6 ([3ad4860](https://github.com/muhlba91/node-red-container/commit/3ad48604536ec5d36fedf8071571c3be1ee93329))
+* **deps:** update actions/checkout action to v6.0.1 ([fd9d134](https://github.com/muhlba91/node-red-container/commit/fd9d1341846b5d02263da3f3e8a0b32e7a7996b9))
+* **deps:** update actions/checkout digest to 8e8c483 ([7119b91](https://github.com/muhlba91/node-red-container/commit/7119b9177d191f136814f4b9d038a5c83388b742))
+* **deps:** update actions/checkout digest to 93cb6ef ([3afe72b](https://github.com/muhlba91/node-red-container/commit/3afe72ba3b6a859b2ff8918dd87b19ae55dd9e88))
+* **deps:** update actions/dependency-review-action action to v4.7.2 ([bf0ba7c](https://github.com/muhlba91/node-red-container/commit/bf0ba7c9d7513925cb7b2ebc1beb57cb66685d56))
+* **deps:** update actions/dependency-review-action action to v4.7.3 ([639ba09](https://github.com/muhlba91/node-red-container/commit/639ba097cf920156fe8c4ef76bc796d12f341051))
+* **deps:** update actions/dependency-review-action action to v4.8.0 ([2c6bc98](https://github.com/muhlba91/node-red-container/commit/2c6bc9826fecc342587aac2338abe40b22a404d3))
+* **deps:** update actions/dependency-review-action action to v4.8.1 ([2f5ffc1](https://github.com/muhlba91/node-red-container/commit/2f5ffc157b5737cd202d79396d3a6c8c7e68488f))
+* **deps:** update actions/dependency-review-action action to v4.8.2 ([13c60c1](https://github.com/muhlba91/node-red-container/commit/13c60c15871886314ba04233360d67151a58f596))
+* **deps:** update actions/upload-artifact action to v5 ([4449c9a](https://github.com/muhlba91/node-red-container/commit/4449c9a483df49ed0017c6b2db747b9e934f7d59))
+* **deps:** update docker/login-action action to v3.6.0 ([8c589c2](https://github.com/muhlba91/node-red-container/commit/8c589c2e3d3c15d3e3668579c6359e4b60ca3af7))
+* **deps:** update docker/setup-qemu-action action to v3.7.0 ([81cfbef](https://github.com/muhlba91/node-red-container/commit/81cfbef346d38808e95ee8f398c51b6d61519199))
+* **deps:** update github/codeql-action action to v3.29.10 ([077a62f](https://github.com/muhlba91/node-red-container/commit/077a62f73b5ca618041d165ec617e1281b1aab4c))
+* **deps:** update github/codeql-action action to v3.29.11 ([16a826f](https://github.com/muhlba91/node-red-container/commit/16a826f702444304d9b24fed06a8e75ab25ec4d5))
+* **deps:** update github/codeql-action action to v3.30.0 ([b1cbfe1](https://github.com/muhlba91/node-red-container/commit/b1cbfe150afa0d5bfd1be48f754e7b37acae157e))
+* **deps:** update github/codeql-action action to v3.30.1 ([5d2c479](https://github.com/muhlba91/node-red-container/commit/5d2c4795459f9af968fb8b72fb5e2e69bb200e90))
+* **deps:** update github/codeql-action action to v3.30.2 ([defb9e9](https://github.com/muhlba91/node-red-container/commit/defb9e9764d543a5418be672e46004eae80532e3))
+* **deps:** update github/codeql-action action to v3.30.3 ([86f15fe](https://github.com/muhlba91/node-red-container/commit/86f15febd84e8dd496f45cab3c432b17436ebbdc))
+* **deps:** update github/codeql-action action to v3.30.4 ([a83c01e](https://github.com/muhlba91/node-red-container/commit/a83c01e2d4a6a92276d9f70da80e17600a2b5983))
+* **deps:** update github/codeql-action action to v3.30.5 ([d5eb8f6](https://github.com/muhlba91/node-red-container/commit/d5eb8f68fa9cdf717b9f63175a838d89d46b0a0f))
+* **deps:** update github/codeql-action action to v3.30.6 ([c7945ba](https://github.com/muhlba91/node-red-container/commit/c7945ba38b34ef1d59d846d117096d5669dc1443))
+* **deps:** update github/codeql-action action to v3.30.7 ([f6a4cfc](https://github.com/muhlba91/node-red-container/commit/f6a4cfc716bbd14ab1ba8bd471140b0f8ad58ec7))
+* **deps:** update github/codeql-action action to v4 ([7d701f8](https://github.com/muhlba91/node-red-container/commit/7d701f8c4e9d4a11f36c6bf7bcdb584fa260c4a7))
+* **deps:** update github/codeql-action action to v4.30.8 ([3582e64](https://github.com/muhlba91/node-red-container/commit/3582e64415003ed3913352c08a4078da49b29dc2))
+* **deps:** update github/codeql-action action to v4.30.9 ([a6bb897](https://github.com/muhlba91/node-red-container/commit/a6bb8976df1fefb17ee2f8dbd06aec817bf80edb))
+* **deps:** update github/codeql-action action to v4.31.0 ([ca24d18](https://github.com/muhlba91/node-red-container/commit/ca24d18f405799f2dd8947a0aee8f35ec7b354d5))
+* **deps:** update github/codeql-action action to v4.31.2 ([303bb7d](https://github.com/muhlba91/node-red-container/commit/303bb7d16f539a4f5474df4de605378b0478ad5a))
+* **deps:** update github/codeql-action action to v4.31.3 ([22fff58](https://github.com/muhlba91/node-red-container/commit/22fff5840479dd528ea4848ccd474fc6f8feb36a))
+* **deps:** update github/codeql-action action to v4.31.4 ([b1ee76b](https://github.com/muhlba91/node-red-container/commit/b1ee76b8f5a30c23001f913b6ca7cd832abffa61))
+* **deps:** update github/codeql-action action to v4.31.5 ([b410974](https://github.com/muhlba91/node-red-container/commit/b410974f786c31582f118c11cff3dfb7ca164d23))
+* **deps:** update github/codeql-action action to v4.31.6 ([a405fd5](https://github.com/muhlba91/node-red-container/commit/a405fd51f3d33a8a2bab588e9957e8694e9a56f1))
+* **deps:** update hadolint/hadolint-action action to v3.2.0 ([99f43b3](https://github.com/muhlba91/node-red-container/commit/99f43b35318b92a1e2d2913d716bb3554508daf0))
+* **deps:** update hadolint/hadolint-action action to v3.3.0 ([f30b2f7](https://github.com/muhlba91/node-red-container/commit/f30b2f7e515367aea911da549b9bf045796b7dbd))
+* **deps:** update nodered/node-red docker tag to v4.1.1 ([0704d3c](https://github.com/muhlba91/node-red-container/commit/0704d3c919be28ee796b95516b1da1e44e8760b1))
+* **deps:** update nodered/node-red docker tag to v4.1.2 ([0ff4814](https://github.com/muhlba91/node-red-container/commit/0ff481489fcde03533ae6e93e0b312a8fb12340a))
+* **deps:** update ossf/scorecard-action action to v2.4.3 ([d060112](https://github.com/muhlba91/node-red-container/commit/d0601129adbe8f0d68369b8b215865e99e494bc9))
+* **deps:** update step-security/harden-runner action to v2.13.1 ([465e93b](https://github.com/muhlba91/node-red-container/commit/465e93b586802c5560d14ab7cf3b7deba7090332))
+* **deps:** update step-security/harden-runner action to v2.13.2 ([d80de63](https://github.com/muhlba91/node-red-container/commit/d80de635361b4b502233b4b2890b734043d0e04b))
+* **deps:** update step-security/harden-runner action to v2.13.3 ([d472aef](https://github.com/muhlba91/node-red-container/commit/d472aef08c3407f9391fc89dabc5610e800edb9d))
+
 ## [5.1.0](https://github.com/muhlba91/node-red-container/compare/v5.0.6...v5.1.0) (2025-08-12)
 
 
