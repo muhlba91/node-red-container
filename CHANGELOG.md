@@ -1,6 +1,16 @@
 # Changelog
 
 
+## [5.1.2](https://github.com/muhlba91/node-red-container/compare/v5.1.1...v5.1.2) (2025-12-13)
+
+
+### Miscellaneous Chores
+
+* **deps:** update actions/upload-artifact action to v6 ([8a9c327](https://github.com/muhlba91/node-red-container/commit/8a9c3271ca1dcdf1f4f14263719b6eb3bd70b98a))
+* **deps:** update github/codeql-action action to v4.31.7 ([6c36492](https://github.com/muhlba91/node-red-container/commit/6c3649215d70c3224b9666da8d862d692267574b))
+* **deps:** update github/codeql-action action to v4.31.8 ([6b75103](https://github.com/muhlba91/node-red-container/commit/6b751034506ff05a26a1a052b5742aa90ecfe038))
+* **deps:** update step-security/harden-runner action to v2.14.0 ([fe2a300](https://github.com/muhlba91/node-red-container/commit/fe2a300b7cde09b61c159281bdc7c53370459fd6))
+
 ## [5.1.1](https://github.com/muhlba91/node-red-container/compare/v5.1.0...v5.1.1) (2025-12-03)
 
 
