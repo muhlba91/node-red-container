@@ -1,6 +1,14 @@
 # Changelog
 
 
+## [5.1.3](https://github.com/muhlba91/node-red-container/compare/v5.1.2...v5.1.3) (2026-02-11)
+
+
+### Miscellaneous Chores
+
+* **deps:** update docker/build-push-action action to v6.19.0 ([cac28ff](https://github.com/muhlba91/node-red-container/commit/cac28ff7bb3045f81d71f2bc6778b316856a5163))
+* **deps:** update nodered/node-red docker tag to v4.1.5 ([c817eec](https://github.com/muhlba91/node-red-container/commit/c817eec4944f0faa6934ce313feac3e8c2efb21f))
+
 ## [5.1.2](https://github.com/muhlba91/node-red-container/compare/v5.1.1...v5.1.2) (2026-02-07)
 
 
