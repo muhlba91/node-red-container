@@ -1,6 +1,15 @@
 # Changelog
 
 
+## [5.1.4](https://github.com/muhlba91/node-red-container/compare/v5.1.3...v5.1.4) (2026-02-13)
+
+
+### Miscellaneous Chores
+
+* **deps:** update docker/build-push-action action to v6.19.1 ([1eaea69](https://github.com/muhlba91/node-red-container/commit/1eaea69e3d762c0bcaea306f9bd7ad9f49e2f825))
+* **deps:** update docker/build-push-action action to v6.19.2 ([baf246e](https://github.com/muhlba91/node-red-container/commit/baf246ef5c33a922fbade70a148f6c5f78e7ba0b))
+* **deps:** update github/codeql-action action to v4.32.3 ([0ff7561](https://github.com/muhlba91/node-red-container/commit/0ff7561227218f06b913495426a22eb4d7bd357b))
+
 ## [5.1.3](https://github.com/muhlba91/node-red-container/compare/v5.1.2...v5.1.3) (2026-02-11)
 
 
