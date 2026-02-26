@@ -1,6 +1,19 @@
 # Changelog
 
 
+## [5.1.4](https://github.com/muhlba91/node-red-container/compare/v5.1.3...v5.1.4) (2026-02-26)
+
+
+### Miscellaneous Chores
+
+* **deps:** update actions/dependency-review-action action to v4.8.3 ([cb88289](https://github.com/muhlba91/node-red-container/commit/cb88289a566fb53bd6aaa79f1238b0308a053364))
+* **deps:** update docker/build-push-action action to v6.19.1 ([1eaea69](https://github.com/muhlba91/node-red-container/commit/1eaea69e3d762c0bcaea306f9bd7ad9f49e2f825))
+* **deps:** update docker/build-push-action action to v6.19.2 ([baf246e](https://github.com/muhlba91/node-red-container/commit/baf246ef5c33a922fbade70a148f6c5f78e7ba0b))
+* **deps:** update github/codeql-action action to v4.32.3 ([0ff7561](https://github.com/muhlba91/node-red-container/commit/0ff7561227218f06b913495426a22eb4d7bd357b))
+* **deps:** update github/codeql-action action to v4.32.4 ([03aa268](https://github.com/muhlba91/node-red-container/commit/03aa268690c3b315e498fa7c62eaebb6554bc660))
+* **deps:** update nodered/node-red docker tag to v4.1.6 ([1fb2c2c](https://github.com/muhlba91/node-red-container/commit/1fb2c2cdb91ffd2cef26d4cbd4c322570ccc9e45))
+* **deps:** update step-security/harden-runner action to v2.15.0 ([f8d8c54](https://github.com/muhlba91/node-red-container/commit/f8d8c54eb43682dec2618daaf7e6b7a5ba65fce9))
+
 ## [5.1.3](https://github.com/muhlba91/node-red-container/compare/v5.1.2...v5.1.3) (2026-02-11)
 
 
