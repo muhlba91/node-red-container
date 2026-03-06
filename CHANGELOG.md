@@ -1,6 +1,22 @@
 # Changelog
 
 
+## [5.1.5](https://github.com/muhlba91/node-red-container/compare/v5.1.4...v5.1.5) (2026-03-06)
+
+
+### Miscellaneous Chores
+
+* **deps:** update actions/dependency-review-action action to v4.9.0 ([d0024b9](https://github.com/muhlba91/node-red-container/commit/d0024b907cfe6274af2e69da3fc5aedac7a57d3b))
+* **deps:** update actions/upload-artifact action to v7 ([3eb35c2](https://github.com/muhlba91/node-red-container/commit/3eb35c278e6c8f2b26c674e89738ce8eba360005))
+* **deps:** update docker/build-push-action action to v7 ([6b4f669](https://github.com/muhlba91/node-red-container/commit/6b4f6699ba7f27f39e77f189e4d02e89458aa7b0))
+* **deps:** update docker/login-action action to v4 ([57d94b5](https://github.com/muhlba91/node-red-container/commit/57d94b52adf04d918fea31f3730397c76febea97))
+* **deps:** update docker/setup-buildx-action action to v4 ([69bff56](https://github.com/muhlba91/node-red-container/commit/69bff56ebe45b56b43035285b67fdb55cc3c1059))
+* **deps:** update docker/setup-qemu-action action to v4 ([124c6b8](https://github.com/muhlba91/node-red-container/commit/124c6b81370ddab535d864803ef6c798d3672dee))
+* **deps:** update github/codeql-action action to v4.32.5 ([864711c](https://github.com/muhlba91/node-red-container/commit/864711c1e1a55a0d3d6e260718b043c969e7e75b))
+* **deps:** update github/codeql-action action to v4.32.6 ([aa44e82](https://github.com/muhlba91/node-red-container/commit/aa44e8247802ec6315381906f411798e2d6fe5e3))
+* **deps:** update nodered/node-red docker tag to v4.1.7 ([2b94de1](https://github.com/muhlba91/node-red-container/commit/2b94de1d9119a7d5490cc5b6eeb1871477355ff1))
+* **deps:** update step-security/harden-runner action to v2.15.1 ([3cb1321](https://github.com/muhlba91/node-red-container/commit/3cb13214e6b170ffcbeea55d7fc79f1229040c63))
+
 ## [5.1.4](https://github.com/muhlba91/node-red-container/compare/v5.1.3...v5.1.4) (2026-02-26)
 
 
