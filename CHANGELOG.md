@@ -1,6 +1,14 @@
 # Changelog
 
 
+## [5.1.7](https://github.com/muhlba91/node-red-container/compare/v5.1.6...v5.1.7) (2026-03-27)
+
+
+### Miscellaneous Chores
+
+* **deps:** update github/codeql-action action to v4.35.0 ([32e5dbd](https://github.com/muhlba91/node-red-container/commit/32e5dbd9d7ed3d538d0b6af07c6731e35e6e1158))
+* **deps:** update github/codeql-action action to v4.35.1 ([44958e7](https://github.com/muhlba91/node-red-container/commit/44958e7763d3e7a91e7148faf706d83c86939ae0))
+
 ## [5.1.6](https://github.com/muhlba91/node-red-container/compare/v5.1.5...v5.1.6) (2026-03-24)
 
 
