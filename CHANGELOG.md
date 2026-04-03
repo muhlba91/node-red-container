@@ -1,6 +1,16 @@
 # Changelog
 
 
+## [5.1.7](https://github.com/muhlba91/node-red-container/compare/v5.1.6...v5.1.7) (2026-04-03)
+
+
+### Miscellaneous Chores
+
+* **deps:** update docker/login-action action to v4.1.0 ([3964b48](https://github.com/muhlba91/node-red-container/commit/3964b48f4d3e046bdd3da796b6e061e3933f858e))
+* **deps:** update github/codeql-action action to v4.35.0 ([32e5dbd](https://github.com/muhlba91/node-red-container/commit/32e5dbd9d7ed3d538d0b6af07c6731e35e6e1158))
+* **deps:** update github/codeql-action action to v4.35.1 ([44958e7](https://github.com/muhlba91/node-red-container/commit/44958e7763d3e7a91e7148faf706d83c86939ae0))
+* **deps:** update step-security/harden-runner action to v2.16.1 ([0f05d78](https://github.com/muhlba91/node-red-container/commit/0f05d78aeeb93bbb3cbcc66aa766bb5ef5fa68aa))
+
 ## [5.1.6](https://github.com/muhlba91/node-red-container/compare/v5.1.5...v5.1.6) (2026-03-24)
 
 
