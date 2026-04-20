@@ -1,6 +1,23 @@
 # Changelog
 
 
+## [5.1.7](https://github.com/muhlba91/node-red-container/compare/v5.1.6...v5.1.7) (2026-04-20)
+
+
+### Miscellaneous Chores
+
+* **deps:** update actions/upload-artifact action to v7.0.1 ([5fecbd9](https://github.com/muhlba91/node-red-container/commit/5fecbd92fbb2d609f4c229e568b8685524a9ab51))
+* **deps:** update docker/build-push-action action to v7.1.0 ([151933e](https://github.com/muhlba91/node-red-container/commit/151933e03d6ba1774d2292c921fece5b1ac352fb))
+* **deps:** update docker/login-action action to v4.1.0 ([3964b48](https://github.com/muhlba91/node-red-container/commit/3964b48f4d3e046bdd3da796b6e061e3933f858e))
+* **deps:** update github/codeql-action action to v4.35.0 ([32e5dbd](https://github.com/muhlba91/node-red-container/commit/32e5dbd9d7ed3d538d0b6af07c6731e35e6e1158))
+* **deps:** update github/codeql-action action to v4.35.1 ([44958e7](https://github.com/muhlba91/node-red-container/commit/44958e7763d3e7a91e7148faf706d83c86939ae0))
+* **deps:** update github/codeql-action action to v4.35.2 ([63f1468](https://github.com/muhlba91/node-red-container/commit/63f14684927326b585d6035f89f6ea1b036d270d))
+* **deps:** update googleapis/release-please-action action to v4.4.1 ([30d3733](https://github.com/muhlba91/node-red-container/commit/30d373343c30bd82a4277ad30b6d6f5e7d9208d1))
+* **deps:** update step-security/harden-runner action to v2.16.1 ([0f05d78](https://github.com/muhlba91/node-red-container/commit/0f05d78aeeb93bbb3cbcc66aa766bb5ef5fa68aa))
+* **deps:** update step-security/harden-runner action to v2.17.0 ([f262fcc](https://github.com/muhlba91/node-red-container/commit/f262fcce9aae3a44b2a0d0b34b43f2848a1d4795))
+* **deps:** update step-security/harden-runner action to v2.18.0 ([6b51a18](https://github.com/muhlba91/node-red-container/commit/6b51a1815c48d89fc9974e81385d325976ea7985))
+* **deps:** update step-security/harden-runner action to v2.19.0 ([c9ec96b](https://github.com/muhlba91/node-red-container/commit/c9ec96b81431f72695873412e6963aef4a163f75))
+
 ## [5.1.6](https://github.com/muhlba91/node-red-container/compare/v5.1.5...v5.1.6) (2026-03-24)
 
 
