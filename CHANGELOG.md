@@ -1,6 +1,21 @@
 # Changelog
 
 
+## [6.0.1](https://github.com/muhlba91/node-red-container/compare/v6.0.0...v6.0.1) (2026-07-24)
+
+
+### Miscellaneous Chores
+
+* **deps:** update actions/checkout action to v7.0.1 ([8869ffa](https://github.com/muhlba91/node-red-container/commit/8869ffa386c7f6c709da11a94c2c111366d517cc))
+* **deps:** update actions/checkout digest to 3d3c42e ([6a79517](https://github.com/muhlba91/node-red-container/commit/6a795173225da8671f295e7d2d636c4917b6d15c))
+* **deps:** update docker/login-action action to v4.5.0 ([3e759d7](https://github.com/muhlba91/node-red-container/commit/3e759d7497123121f6a6ac77cf3df22b40f97c72))
+* **deps:** update github/codeql-action action to v4.37.0 ([3e025e6](https://github.com/muhlba91/node-red-container/commit/3e025e6d06c47c43b5a82829eafb8e9660d4dfd5))
+* **deps:** update github/codeql-action action to v4.37.1 ([77c00f4](https://github.com/muhlba91/node-red-container/commit/77c00f4209bf942bbe85a45449c60f4dbda2bde4))
+* **deps:** update github/codeql-action action to v4.37.2 ([b553077](https://github.com/muhlba91/node-red-container/commit/b5530777eaa7efb6e6d303083ef1fa4880076989))
+* **deps:** update github/codeql-action action to v4.37.3 ([e328e92](https://github.com/muhlba91/node-red-container/commit/e328e922ee0953a816f6b764219f9d3414b26028))
+* **deps:** update ossf/scorecard-action action to v2.4.4 ([a8fe2fb](https://github.com/muhlba91/node-red-container/commit/a8fe2fb0680e4f1367f0ab33b6ab679022869805))
+* **deps:** update step-security/harden-runner action to v2.20.0 ([240b44c](https://github.com/muhlba91/node-red-container/commit/240b44c5518632c6e7e9c6d0192305e1c089400e))
+
 ## [6.0.0](https://github.com/muhlba91/node-red-container/compare/v5.1.7...v6.0.0) (2026-07-05)
 
 
