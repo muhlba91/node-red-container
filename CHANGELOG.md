@@ -1,6 +1,25 @@
 # Changelog
 
 
+## [6.0.2](https://github.com/muhlba91/node-red-container/compare/v6.0.1...v6.0.2) (2026-09-08)
+
+
+### Miscellaneous Chores
+
+* **deps:** update docker/setup-buildx-action action to v4.3.0 ([5662e9f](https://github.com/muhlba91/node-red-container/commit/5662e9f7bb8b7874ddcd46a2181a3c1f6f5d77ea))
+* **deps:** update docker/setup-qemu-action action to v4.3.0 ([09e23d3](https://github.com/muhlba91/node-red-container/commit/09e23d3579eca4f49347c31767656908f249ee7e))
+* **deps:** update github/codeql-action action to v4.37.5 ([27f3d75](https://github.com/muhlba91/node-red-container/commit/27f3d75957dbe222ad5b5b7199a764090b937305))
+* **deps:** update github/codeql-action action to v4.37.6 ([d786e24](https://github.com/muhlba91/node-red-container/commit/d786e24d567c5edc9a2b883b06413acd4e11f4b1))
+* **deps:** update github/codeql-action action to v4.37.7 ([dee9e35](https://github.com/muhlba91/node-red-container/commit/dee9e35a7d3ed63de8fd3317a7c8ca534b0999ee))
+* **deps:** update github/codeql-action action to v4.37.8 ([4e88761](https://github.com/muhlba91/node-red-container/commit/4e88761730082cb8ed290b60925befcbb263c80d))
+* **deps:** update github/codeql-action action to v4.37.9 ([085bcd8](https://github.com/muhlba91/node-red-container/commit/085bcd8e6edc6f20657207242f517c849d3637c9))
+* **deps:** update hadolint/hadolint-action action to v3.5.0 ([307c1cb](https://github.com/muhlba91/node-red-container/commit/307c1cb7f0c1f1383dd7ea238686320fda7e59a3))
+* **deps:** update nodered/node-red docker tag to v5.0.6 ([5ac5a79](https://github.com/muhlba91/node-red-container/commit/5ac5a79753412151246de123e3c5460e4555f472))
+* **deps:** update nodered/node-red docker tag to v5.0.7 ([cc8b13c](https://github.com/muhlba91/node-red-container/commit/cc8b13c0a18f8dfdbfc6cc64e3629350de07b0b4))
+* **deps:** update step-security/harden-runner action to v2.20.1 ([408e909](https://github.com/muhlba91/node-red-container/commit/408e909ac1bb079e28a4645d281b2265d5e571a7))
+* **deps:** update step-security/harden-runner action to v2.21.0 ([d7a8326](https://github.com/muhlba91/node-red-container/commit/d7a83269419306ae1abfaaaff95d517ce952b5a1))
+* **deps:** update step-security/harden-runner action to v2.21.1 ([9184b4d](https://github.com/muhlba91/node-red-container/commit/9184b4da3c6bd1eca097126bfd8e5b29a8e964e8))
+
 ## [6.0.1](https://github.com/muhlba91/node-red-container/compare/v6.0.0...v6.0.1) (2026-07-31)
 
 
