@@ -1,6 +1,13 @@
 # Changelog
 
 
+## [6.0.3](https://github.com/muhlba91/node-red-container/compare/v6.0.2...v6.0.3) (2026-09-09)
+
+
+### Miscellaneous Chores
+
+* **deps:** update github/codeql-action action to v4.38.0 ([43817a7](https://github.com/muhlba91/node-red-container/commit/43817a70612811a139737938d2a97f8d76fd24f2))
+
 ## [6.0.2](https://github.com/muhlba91/node-red-container/compare/v6.0.1...v6.0.2) (2026-09-08)
 
 
