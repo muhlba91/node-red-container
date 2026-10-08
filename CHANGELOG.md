@@ -1,6 +1,26 @@
 # Changelog
 
 
+## [6.0.3](https://github.com/muhlba91/node-red-container/compare/v6.0.2...v6.0.3) (2026-10-08)
+
+
+### Miscellaneous Chores
+
+* **ci:** fix github workflow concurrency ([812234f](https://github.com/muhlba91/node-red-container/commit/812234f1bca7ec0c4be268d3ec555cdc45d77c0f))
+* **deps:** update actions/upload-artifact action to v7.0.2 ([be91913](https://github.com/muhlba91/node-red-container/commit/be919136c42365774111a86b0d22550635027d5b))
+* **deps:** update docker/build-push-action action to v7.4.0 ([37a10ad](https://github.com/muhlba91/node-red-container/commit/37a10ad3d346950f0980a6cd0102bff489ce5eb2))
+* **deps:** update docker/setup-buildx-action action to v4.4.0 ([d6dfc00](https://github.com/muhlba91/node-red-container/commit/d6dfc00f2ab6e5000c0cdf788bac127a7d2aa263))
+* **deps:** update docker/setup-buildx-action action to v4.4.1 ([11cb38c](https://github.com/muhlba91/node-red-container/commit/11cb38c575f8cf863cb0d54af7220a9b8f8b83f8))
+* **deps:** update docker/setup-qemu-action action to v4.4.0 ([bd7b48b](https://github.com/muhlba91/node-red-container/commit/bd7b48b14766874b3549ac0f9543a78dc29d5a79))
+* **deps:** update github/codeql-action action to v4.38.0 ([43817a7](https://github.com/muhlba91/node-red-container/commit/43817a70612811a139737938d2a97f8d76fd24f2))
+* **deps:** update github/codeql-action action to v4.38.1 ([4a5e154](https://github.com/muhlba91/node-red-container/commit/4a5e15416ad32321517fa48493dbac2a3a7ea10a))
+* **deps:** update github/codeql-action action to v4.38.2 ([c80d055](https://github.com/muhlba91/node-red-container/commit/c80d055e4ebae1a3f53cfdf4cc5bd1b1e26c94d4))
+* **deps:** update github/codeql-action action to v4.38.3 ([bf698ee](https://github.com/muhlba91/node-red-container/commit/bf698ee3ac0665b0c7234df83eee1bfc1a8431fe))
+* **deps:** update nodered/node-red docker tag to v5.0.8 ([0be63ea](https://github.com/muhlba91/node-red-container/commit/0be63ea7eb3613118390ec6235c40f22ca3f8219))
+* **deps:** update nodered/node-red:5.0.8 docker digest to b5adb6c ([ad54db8](https://github.com/muhlba91/node-red-container/commit/ad54db83954ca18adc3e902a104185234cf17658))
+* **deps:** update step-security/harden-runner action to v2.22.0 ([a32a819](https://github.com/muhlba91/node-red-container/commit/a32a819360efee096b18c6d5a85275a02d4e9367))
+* **deps:** update step-security/harden-runner action to v2.22.1 ([b83c113](https://github.com/muhlba91/node-red-container/commit/b83c11316b7ea71c6bd1282a9071b7730b9d894e))
+
 ## [6.0.2](https://github.com/muhlba91/node-red-container/compare/v6.0.1...v6.0.2) (2026-09-08)
 
 
