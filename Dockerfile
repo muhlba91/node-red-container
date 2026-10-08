@@ -1,4 +1,4 @@
-FROM nodered/node-red:5.0.8@sha256:14a10a45799133122d7ec2e38e01e53c88dda5ba2867000f4d08cc6d1bcd0a10
+FROM nodered/node-red:5.0.8@sha256:b5adb6c9dd29ab80c852d82bc87daed84e729dcff9b00ca1bf958e6de470f2c1
 
 ARG CI_COMMIT_TIMESTAMP
 ARG CI_COMMIT_SHA
