@@ -1,5 +1,8 @@
 # Node-RED Container
 
+> [!WARNING]
+> **This repository is deprecated!**
+
 [![](https://img.shields.io/github/license/muhlba91/node-red-container?style=for-the-badge)](LICENSE)
 [![](https://img.shields.io/github/actions/workflow/status/muhlba91/node-red-container/release.yml?style=for-the-badge)](https://github.com/muhlba91/node-red-container/actions/workflows/release.yml)
 [![](https://api.scorecard.dev/projects/github.com/muhlba91/node-red-container/badge?style=for-the-badge)](https://scorecard.dev/viewer/?uri=github.com/muhlba91/node-red-container)
